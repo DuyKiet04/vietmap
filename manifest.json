@@ -1,0 +1,17 @@
+{
+  "name": "FinMaster",
+  "short_name": "FinMaster",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0E3834",
+  "theme_color": "#0E3834",
+  "description": "FinMaster - Quản lý chi tiêu cá nhân Quiet Luxury",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
